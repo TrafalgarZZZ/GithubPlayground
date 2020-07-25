@@ -8,3 +8,5 @@ cauz' I know nearly nothing about open source project
 Remove `WIP` to return to ready
 
 Here is branch dev
+
+2nd info: branch dev
