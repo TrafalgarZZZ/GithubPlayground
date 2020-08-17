@@ -12,3 +12,14 @@ Here is branch dev
 2nd info: branch dev
 
 3rd info: branch dev
+
+1. dsajdsakldjsakldsa
+```shell
+$ kubectl get pod
+```
+
+2. xxxxx
+dsahjdksahjk
+fhajkhdasjkhdjska
+
+3. cbxzhjhjkadsdsa
