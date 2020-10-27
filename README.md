@@ -17,9 +17,3 @@ Here is branch dev
 ```shell
 $ kubectl get pod
 ```
-
-2. xxxxx
-dsahjdksahjk
-fhajkhdasjkhdjska
-
-3. cbxzhjhjkadsdsa
