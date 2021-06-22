@@ -1,4 +1,6 @@
 # GithubPlayground
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTrafalgarZZZ%2FGithubPlayground.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTrafalgarZZZ%2FGithubPlayground?ref=badge_shield)
+
 A Playground for all the Github Features
 
 ## Why need this?
@@ -23,3 +25,7 @@ dsahjdksahjk
 fhajkhdasjkhdjska
 
 3. cbxzhjhjkadsdsa
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTrafalgarZZZ%2FGithubPlayground.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTrafalgarZZZ%2FGithubPlayground?ref=badge_large)
