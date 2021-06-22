@@ -7,6 +7,22 @@
     <groupId>name.porpoise</groupId>
     <artifactId>GithubPlayground</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <!-- ... -->
+        <dependency>
+            <artifactId>junit</artifactId>
+            <groupId>junit</groupId>
+            <scope>test</scope>
+            <version>4.13</version>
+        </dependency>
+        <dependency>
+            <artifactId>junit-vintage-engine</artifactId>
+            <groupId>org.junit.vintage</groupId>
+            <scope>test</scope>
+            <version>5.7.2</version>
+        </dependency>
+        <!-- ... -->
+    </dependencies>
     <build>
         <plugins>
             <plugin>
